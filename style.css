@@ -1,0 +1,35 @@
+
+
+.header{
+    width: 1920px;
+    height: 198.16px;
+ 
+    margin: 0 auto ;
+    padding: 20px;
+}
+
+.header1{
+    width: 1920px;
+    height: 50px;
+    background-color: #333333;
+    display: flex;
+    gap: 50px;
+    color:#FFFFFF;
+    align-items: center;
+    justify-content: center;
+    
+}
+.header1 h2{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 300;
+line-height: 18px;
+text-align: right;
+
+
+}
+
+.header1 img{
+    width: 16px;
+    height: 16px;
+}
